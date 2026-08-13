@@ -78,4 +78,4 @@ I'm always open to learning, collaborating, and connecting with people working i
 
 ### Let's Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](YOUR_GITHUB_URL)
+[LinkedIn](https://www.linkedin.com/in/linamandla-mzamane/) • [GitHub](https://github.com/Linamandla-Mzamane)
