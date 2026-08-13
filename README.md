@@ -62,7 +62,7 @@ I'm continuously developing my skills in:
 
 You can find my projects here on GitHub, covering areas such as:
 
-**Healthcare Cost Prediction**
+**Hospital Inpatient Charge Prediction & Pricing Analysis**
 A multiple linear regression project using real hospital billing data to predict inpatient procedure costs and identify cost variations.
 
 **Credit Risk & Loan Default Prediction**
