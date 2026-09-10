@@ -1,6 +1,6 @@
 # Hi, I'm Linamandla 👋
 
-### Aspiring Data Scientist | Machine Learning | Python | SQL | Statistics
+### Data Scientist | Machine Learning | Python | SQL | Statistics
 
 I'm an aspiring Data Scientist interested in using statistics, machine learning, and programming to solve real-world problems.
 
