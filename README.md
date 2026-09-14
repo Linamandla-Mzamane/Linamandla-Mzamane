@@ -2,7 +2,7 @@
 
 ### Data Scientist | Machine Learning | Python | SQL | Statistics
 
-I'm an aspiring Data Scientist interested in using statistics, machine learning, and programming to solve real-world problems.
+I'm a Data Scientist interested in using statistics, machine learning, and programming to solve real-world problems.
 
 I enjoy working with data from the messy stage of cleaning and exploration all the way through to building predictive models and communicating the results. I'm particularly interested in **machine learning, statistical modeling, predictive analytics, and data-driven decision making**.
 
