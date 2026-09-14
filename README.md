@@ -17,47 +17,6 @@ I'm currently building my Data Science portfolio through practical projects focu
 
 My projects focus on more than simply training a model. I aim to understand the problem, clean and explore the data, select appropriate features, build and evaluate models, and translate the results into insights that can actually be useful to a business.
 
-## 🛠️ Technologies & Tools
-
-**Languages & Databases**
-
-* Python
-* SQL
-* Java
-* C++
-
-**Data Science & Machine Learning**
-
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Seaborn
-* Statistical Modeling
-* Regression
-* Classification
-* Exploratory Data Analysis
-
-**Data & Cloud Technologies**
-
-* AWS
-* Snowflake
-* dbt
-* Apache Airflow
-* Apache Spark
-
-## 📚 Currently Learning
-
-I'm continuously developing my skills in:
-
-* Machine Learning
-* Statistical modeling
-* Feature engineering
-* Model evaluation
-* Advanced SQL
-* Cloud technologies
-* Building production-ready Data Science projects
-
 ## 📂 Featured Projects
 
 You can find my projects here on GitHub, covering areas such as:
